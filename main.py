@@ -1,4 +1,4 @@
-from mcp.server.fastmcp import Fastmcp
+from mcp.server.fastmcp import FastMCP
 
 mcp = FastMCP(
     name= "hello-server",
